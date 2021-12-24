@@ -1,0 +1,6 @@
+psycopg2=2.8.4
+docker=5.0.0
+six=1.16.0
+bs4=0.0.1
+html2markdown=0.1.7
+schema=0.7.4
